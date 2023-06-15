@@ -29,5 +29,6 @@ status-website:
       href: /
     - title: App
       href: https://app.circlesubi.id
-  runner: "[circles-ubuntu-8-32-300, linux]"
-  user-agent: CirclesUBI-Status-App
+
+runner: "[circles-ubuntu-8-32-300, linux]"
+user-agent: CirclesUBI-Status-App
