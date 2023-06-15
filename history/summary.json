@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://api.circlesubi.id",
     "icon": "https://icons.duckduckgo.com/ip3/api.circlesubi.id.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "10.18%",
-    "uptimeDay": "10.18%",
-    "uptimeWeek": "10.18%",
-    "uptimeMonth": "10.18%",
-    "uptimeYear": "10.18%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "down",
+    "uptime": "1.08%",
+    "uptimeDay": "1.08%",
+    "uptimeWeek": "1.08%",
+    "uptimeMonth": "1.08%",
+    "uptimeYear": "1.08%",
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-06-15": 0
+      "2023-06-15": 2
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://rpc.circlesubi.id/indexer",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.circlesubi.id.ico",
     "slug": "indexer",
-    "status": "up",
-    "uptime": "16.74%",
-    "uptimeDay": "16.74%",
-    "uptimeWeek": "16.74%",
-    "uptimeMonth": "16.74%",
-    "uptimeYear": "16.74%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "down",
+    "uptime": "1.50%",
+    "uptimeDay": "1.50%",
+    "uptimeWeek": "1.50%",
+    "uptimeMonth": "1.50%",
+    "uptimeYear": "1.50%",
+    "time": 547,
+    "timeDay": 547,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2023-06-15": 0
+      "2023-06-15": 2
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   }
 ]
