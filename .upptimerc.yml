@@ -1,28 +1,33 @@
 # Change these first
-owner: CirclesUBI # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: CirclesUBI
+repo: status-indonesia
 
 sites:
-  - name: Dashboard
-    url: https://dashboard.circlesubi.id
-  - name: Translations
-    url: https://translations.circlesubi.id
+  - name: App
+    url: https://app.circlesubi.id
+  - name: API
+    url: https://api.circlesubi.id
+  - name: Indexer
+    url: https://rpc.circlesubi.id/indexer
+  - name: Pathfinder
+    url: https://rpc.circlesubi.id/pathfinder
 
+assignees:
+  - almereyda
+  - jaensen
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.circlesubi.id
-  # baseUrl: /your-repo-name
+  favicon: https://app.circlesubi.id/apple-touch-icon.png
+  faviconSvg: https://cdn.jsdelivr.net/gh/CirclesUBI/o-platform/shell/public/logos/circles.svg
   logoUrl: https://avatars.githubusercontent.com/u/30386623
-  name: CirclesUBI Indonesia
+  name: "CirclesUBI Indonesia"
   introTitle: "Welcome to the CirclesUBI Indonesia status page."
-  introMessage: Here you find information about the current status of the CirclesUBI Indonesia services.
+  introMessage: "Here you find information about the current status of the CirclesUBI Indonesia services."
   navbar:
     - title: Status
       href: /
     - title: App
       href: https://app.circlesubi.id
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  runner: "[circles-ubuntu-8-32-300, linux]"
+  user-agent: CirclesUBI-Status-App
