@@ -18,7 +18,7 @@ on:
 jobs:
   release:
     name: Setup Upptime
-    runs-on: ubuntu-20.04
+    runs-on: [circles-ubuntu-8-32-300, linux]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
