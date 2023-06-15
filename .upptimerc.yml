@@ -12,7 +12,7 @@ sites:
       - "Content-Type: application/json"
     body: '{"query":"{version{major\nminor\nrevision}}"}'
   - name: Indexer
-    url: https://rpc.circlesubi.id/indexer
+    url: https://rpc.circlesubi.id/indexer/health
   - name: Pathfinder
     url: https://rpc.circlesubi.id/pathfinder
 
