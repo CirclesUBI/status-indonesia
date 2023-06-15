@@ -23,23 +23,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.circlesubi.id.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 630,
     "timeDay": 630,
     "timeWeek": 630,
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-06-15": 50
+      "2023-06-15": 74
     }
   },
   {
     "name": "Indexer",
-    "url": "https://rpc.circlesubi.id/indexer",
+    "url": "https://rpc.circlesubi.id/indexer/health",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.circlesubi.id.ico",
     "slug": "indexer",
     "status": "down",
@@ -54,7 +54,7 @@
     "timeMonth": 559,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2023-06-15": 50
+      "2023-06-15": 74
     }
   },
   {
