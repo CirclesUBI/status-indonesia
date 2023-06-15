@@ -6,7 +6,11 @@ sites:
   - name: App
     url: https://app.circlesubi.id
   - name: API
+    method: POST
     url: https://api.circlesubi.id
+    headers:
+      - "Content-Type: application/json"
+    body: '{"query":"{version{major\nminor\nrevision}}"}'
   - name: Indexer
     url: https://rpc.circlesubi.id/indexer
   - name: Pathfinder
