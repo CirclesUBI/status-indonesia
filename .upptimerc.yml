@@ -11,6 +11,8 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"query":"{version{major\nminor\nrevision}}"}'
+  - name: RPC
+    url: https://rpc.circlesubi.id
   - name: Indexer
     url: https://rpc.circlesubi.id/indexer/health
   - name: Pathfinder
