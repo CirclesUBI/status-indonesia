@@ -22,19 +22,19 @@
     "url": "https://api.circlesubi.id",
     "icon": "https://icons.duckduckgo.com/ip3/api.circlesubi.id.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 582,
-    "timeWeek": 629,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 626,
+    "timeDay": 586,
+    "timeWeek": 626,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2023-06-17": 0
+      "2023-06-17": 6
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpc.circlesubi.id.ico",
     "slug": "indexer",
     "status": "up",
-    "uptime": "70.23%",
-    "uptimeDay": "40.13%",
-    "uptimeWeek": "70.23%",
-    "uptimeMonth": "70.23%",
-    "uptimeYear": "70.23%",
+    "uptime": "70.10%",
+    "uptimeDay": "39.76%",
+    "uptimeWeek": "70.10%",
+    "uptimeMonth": "70.10%",
+    "uptimeYear": "70.10%",
     "time": 380,
     "timeDay": 134,
     "timeWeek": 380,
     "timeMonth": 380,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-06-17": 862
+      "2023-06-17": 868
     }
   },
   {
