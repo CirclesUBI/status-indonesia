@@ -58,18 +58,20 @@
     "url": "https://rpc.circlesubi.id/indexer/health",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.circlesubi.id.ico",
     "slug": "indexer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 116,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
-    "dailyMinutesDown": {}
+    "time": 346,
+    "timeDay": 117,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2023-06-18": 0
+    }
   },
   {
     "name": "Pathfinder",
