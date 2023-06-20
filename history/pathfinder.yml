@@ -1,7 +1,7 @@
 url: https://rpc.circlesubi.id/pathfinder
-status: up
-code: 200
-responseTime: 115
-lastUpdated: 2023-06-20T04:50:08.625Z
+status: down
+code: 500
+responseTime: 180
+lastUpdated: 2023-06-20T08:11:06.611Z
 startTime: Thu Jun 15 2023 17:07:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
