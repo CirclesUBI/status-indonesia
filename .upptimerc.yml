@@ -16,7 +16,7 @@ sites:
   - name: Indexer
     url: https://rpc.circlesubi.id/indexer/health
   - name: Pathfinder
-    url: https://rpc.circlesubi.id/pathfinder
+    url: https://pathfinder.circlesubi.id
 
 assignees:
   - almereyda
