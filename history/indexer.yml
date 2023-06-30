@@ -1,7 +1,7 @@
 url: https://rpc.circlesubi.id/indexer/health
-status: down
-code: 500
-responseTime: 157
-lastUpdated: 2023-06-30T20:10:20.188Z
+status: up
+code: 200
+responseTime: 92
+lastUpdated: 2023-06-30T20:19:34.439Z
 startTime: Thu Jun 15 2023 17:07:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
