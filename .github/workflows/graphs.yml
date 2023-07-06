@@ -17,7 +17,7 @@ on:
 jobs:
   release:
     name: Generate graphs
-    runs-on: [circles-ubuntu-8-32-300, linux]
+    runs-on: [ubuntu]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
