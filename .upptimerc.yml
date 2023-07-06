@@ -36,5 +36,4 @@ status-website:
     - title: App
       href: https://app.circlesubi.id
 
-runner: "[ubuntu]"
 user-agent: CirclesUBI-Status-App
